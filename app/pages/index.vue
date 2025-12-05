@@ -13,7 +13,7 @@ const githubUrl = 'https://github.com/Entertainment-Inc'
         class="mx-auto mb-4 w-20 h-20 rounded-full shadow-md"
       />  
       <h1 class="text-3xl font-bold text-gray-800 dark:text-white">
-        Enterteinment Inc
+        Entertainment Inc.
       </h1>
 
       <div class="mt-4">
