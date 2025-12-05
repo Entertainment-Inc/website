@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "@nuxt/image": "1.10.0",
-    "@nuxt/ui": "^3.2.0",
-    "nuxt": "^4.0.0",
-    "tailwindcss": "^4.1.11",
-    "vue": "^3.5.17",
-    "vue-router": "^4.5.1"
+    "@nuxt/ui": "^3.3.7",
+    "nuxt": "^4.2.1",
+    "tailwindcss": "^4.1.17",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3"
   }
 }
